@@ -7,7 +7,6 @@ body {
   background: -o-linear-gradient(blue, red); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(blue, red); /* For Firefox 3.6 to 15 */
   background: linear-gradient(blue, red); /* Standard syntax (must be last) */
-  font-size: 100%;
   margin: 0 auto;
   }
 
@@ -28,4 +27,8 @@ main {
   padding-right: 1%;
   width: 95%;
   background-color: white;
+}
+
+.tp {
+  padding-top: 1%;
 }
